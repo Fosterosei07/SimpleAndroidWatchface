@@ -1,0 +1,30 @@
+#clock{
+    font-size: 175px;
+    width: 910px;
+    align-items: center;
+    text-align: center;
+    margin-top: 10%;
+    margin: 1px;
+    margin-left: 20%;
+    color: rgb(255, 250, 250);
+    background: transparent;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    cursor: default;
+}
+#cl{
+    color: #fff;
+    margin-left: 42%;
+    font-size: 40px;
+    font-weight: 300;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    cursor: default;
+}
+#ock{
+    color: #f3f3f4;
+}
+*{
+    background-color: black;
+    background-image: url(../imgs/clock4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
